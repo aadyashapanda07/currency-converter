@@ -30,7 +30,7 @@ A simple and user-friendly Currency Converter web application that allows users 
 ```text
 currency-converter/
 │
-├── api.html
+├── index.html
 ├── api.css
 ├── api.js
 └── README.md
